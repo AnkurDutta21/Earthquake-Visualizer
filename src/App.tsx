@@ -1,8 +1,14 @@
+import { Route } from "react-router-dom"
+
+import { Routes } from "react-router-dom"
+import EarthquakeDashboard from "./pages/EarthquakeDashboard"
+import Layout from "./layout/Layout"
+
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <Routes>
+      <Route path="/" element={<Layout><EarthquakeDashboard /></Layout>} />
+    </Routes>
   )
 }
 
