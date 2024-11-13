@@ -10,7 +10,7 @@ A modern, minimalist, and responsive web application for visualizing earthquake 
 - **Detailed Earthquake Data**: Click on an earthquake event to view in-depth details.
 - **Modern Design**: Neutral, earthquake-themed color palette with an aesthetic and user-friendly layout.
 ## Demo
-  [![Watch the video](https://www.loom.com/share/d39016c0057547c79466081e83ffa736?sid=03a05c7f-2fc1-42ee-b353-ccc8f234cf93)
+  [![Watch the video](https://drive.google.com/file/d/1P4572NLt3XjfKDa9nIVZ7XSWCPXnEj7P/view?usp=drive_link)(https://www.loom.com/share/d39016c0057547c79466081e83ffa736?sid=03a05c7f-2fc1-42ee-b353-ccc8f234cf93)
 ## Table of Contents
 
 - [Installation](#installation)
