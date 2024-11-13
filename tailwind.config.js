@@ -7,25 +7,25 @@ module.exports = {
     extend: {
       colors: {
         base: {
-          dark: '#0A0A0F',
-          DEFAULT: '#12121A',
-          light: '#1A1A23',
+          dark: '#2B2B2B',
+          DEFAULT: '#3A3A3A',
+          light: '#E0E0E0',
         },
         surface: {
-          dark: 'rgba(24, 24, 34, 0.7)',
-          DEFAULT: 'rgba(32, 32, 44, 0.7)',
-          light: 'rgba(40, 40, 54, 0.7)',
+          dark: 'rgba(43, 43, 43, 0.7)',
+          DEFAULT: 'rgba(58, 58, 58, 0.7)',
+          light: 'rgba(224, 224, 224, 0.7)',
         },
         accent: {
           pink: {
-            light: '#FF4D94',
-            DEFAULT: '#FF1A75',
-            dark: '#CC0052',
+            light: '#FFB3C1',
+            DEFAULT: '#FF6F91',
+            dark: '#FF3D71',
           },
           purple: {
-            light: '#9C6FFF',
-            DEFAULT: '#7C3AFF',
-            dark: '#5B00FF',
+            light: '#D1C4E9',
+            DEFAULT: '#9575CD',
+            dark: '#7E57C2',
           }
         },
         stroke: {

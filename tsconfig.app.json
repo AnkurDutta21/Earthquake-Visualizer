@@ -3,7 +3,9 @@
     "baseUrl": ".",
     "paths": {
       "@/*": [
-        "./src/*"
+        "./src/*",
+        "./types/*",
+        "./components/*"
       ]
     },
     "composite": true,
@@ -33,5 +35,5 @@
   },
   "include": [
     "src"
-  ]
+, "src/pages/Earthquake.tsx"  ]
 }
